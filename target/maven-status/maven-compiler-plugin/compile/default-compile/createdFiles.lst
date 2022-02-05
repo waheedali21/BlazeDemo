@@ -1,0 +1,10 @@
+com\blaze\locators\CartPageLocators.class
+com\blaze\actions\ProductPageActions.class
+com\blaze\locators\SignUpPageLocators.class
+com\blaze\actions\SignUpPageActions.class
+com\blaze\base\Constants.class
+com\blaze\locators\LoginPageLocators.class
+com\blaze\utilities\ExcelDataConfig.class
+com\blaze\actions\LoginPageActions.class
+com\blaze\base\TestBase.class
+com\blaze\locators\ProductPageLocators.class

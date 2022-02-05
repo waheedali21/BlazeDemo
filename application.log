@@ -1,0 +1,15 @@
+2022-02-06 00:13:14,370 DEBUG [main] TestBase:36 - Object got created of properties file
+2022-02-06 00:13:14,374 DEBUG [main] TestBase:41 - FileInputStream path is setup
+2022-02-06 00:13:15,285 DEBUG [main] TestBase:45 - Excel file path is setup
+2022-02-06 00:13:15,285 DEBUG [main] TestBase:21 - Loading properties file, excel file from test base class
+2022-02-06 00:13:15,420 DEBUG [main] TestBase:50 - Getting browser name from property file
+2022-02-06 00:13:15,420 DEBUG [main] TestBase:53 - Browser name printing
+2022-02-06 00:13:15,421 DEBUG [main] TestBase:58 - Chrome browser path is setup
+2022-02-06 00:13:19,609 DEBUG [main] TestBase:68 - Chrome launched
+2022-02-06 00:13:22,687 DEBUG [main] TestBase:102 - URL launched...
+2022-02-06 00:13:22,688 DEBUG [main] TestBase:29 - Browser got initialized and launched 
+2022-02-06 00:13:22,692 DEBUG [main] TestBase:36 - Object got created of properties file
+2022-02-06 00:13:22,693 DEBUG [main] TestBase:41 - FileInputStream path is setup
+2022-02-06 00:13:22,836 DEBUG [main] TestBase:45 - Excel file path is setup
+2022-02-06 00:13:25,022 DEBUG [main] TestBase:39 - Login successfully
+2022-02-06 00:13:25,066 DEBUG [main] TestBase:50 - Home page url got verified

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BlazeDemo">
+	<test thread-count="5" name="BlazeDemo_DataDrivenApproach">
+		<classes>
+
+
+			<!-- <class name="com.blaze.testcases.SignUpPageTestCases"/> -->
+			<class name="com.blaze.testcases.LoginPageTestCases"/>
+
+			<class name="com.blaze.testcases.ProductPageTestCases" />
+			<class name="com.blaze.testcases.CartPageTestCases" />
+
+
+
+			<!-- <class name="com.blaze.base.TestBase"/> -->
+
+
+
+
+			<!-- <class name="com.qa.roughwork.CallBrowserTest"/> -->
+			<!-- <class name="com.blaze.testcases.CartPageTestCases"/> -->
+
+
+
+		</classes>
+	</test> <!-- BlazeDemo_DataDrivenApproach -->
+</suite> <!-- BlazeDemo -->

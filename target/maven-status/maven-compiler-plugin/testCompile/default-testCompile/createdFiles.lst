@@ -1,0 +1,6 @@
+com\blaze\testcases\SignUpPageTestCases.class
+com\qa\roughwork\SignUpWithInvalidCredentilas.class
+com\blaze\testcases\ProductPageTestCases.class
+com\blaze\testcases\LoginPageTestCases.class
+com\qa\roughwork\RoughWork.class
+com\qa\roughwork\CallBrowserTest.class
